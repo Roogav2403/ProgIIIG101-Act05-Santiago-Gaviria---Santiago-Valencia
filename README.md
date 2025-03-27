@@ -1,1 +1,8 @@
-# ProgIIIG101-Act05-Santiago-Gaviria---Santiago-Valencia
+%ejercicio de la familia Simspsons con Listas 
+
+
+madre(jacqueline,[patty,selma,marge]).
+madre(mona,[homero]).
+madre(marge,[bart,lisa,maggie]).
+madre(selma,[ling]).
+
